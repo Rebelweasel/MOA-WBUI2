@@ -1,0 +1,80 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 2,
+			"hideicon": true,
+			"hideiconafter": 60,
+			"iconurl": "https://i.imgur.com/onBozbT.png",
+			"disableicontext": true,
+			"iconposition": 2,
+			"icontextcolor": 4,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 3,
+				"buttontext": "News & Hi",
+				"imageurl": "https://i.imgur.com/XDqDG5u.png",
+				"content": [
+					{
+						"title": "<TextStyle.White>CURRENT NEWS</>",
+						"text": "<TextStyle.Orange>URGENT NOTICE all items outside your Massive Base Protection Flags will decay on Friday, Oct 31st at 1 AM Eastern US Time Zone</>\r\n\r\n<RichColor Color=\"1,1,1,1\">This excludes whitelisted items: </>\r\n<RichColor Color=\"1,1,1,1\">- oil pumps, rafts, sleeping bags, teleporters, tree sap taps, & water wells</>\r\n\r\n<TextStyle.Orange>MASSIVE BASE PROTECTION FLAG TUTORIAL YOUTUBE LINK BELOW! [MBP Video]</>\r\n\r\n<RichColor Color=\"1,1,0,1\">2025-10-24 Current Maps</>\r\n<RichColor Color=\"1,1,1,1\">- Astraeos DLC, The Center</>\r\n\r\n<RichColor Color=\"1,1,0,1\">2025-10-13 to 2025-10-31 Aardwolf Memorial Event</>\r\n<RichColor Color=\"1,1,1,1\">This week is the anniversary of Aardwolf's death. As a memorial and celebration of all Aardwolf has done to create this community, we will have special server rates until October 24th. </>\r\n<RichColor Color=\"1,1,1,1\">--- Double rates for Baby Mature Speed, Incubation/Gestation Speed, XP Gain, Fishing and Supply Drop Loot Quality, Taming Speed, Egg Laying Speed, & Harvest Rates</>\r\n<RichColor Color=\"1,1,1,1\">--- There are no diseases</>\r\n<RichColor Color=\"1,1,1,1\">--- All structure and dino decay is paused</>\r\n<RichColor Color=\"1,1,1,1\">--- All player structures are indestructable (except by you)</>\r\n\r\n<RichColor Color=\"1,1,0,1\">2025/10/11 to 2025/11/08 Fear Ascended & Halloween Dino Colours</>\r\n<RichColor Color=\"1,1,1,1\">(scroll down for older news)</>\r\n\r\n<RichColor Color=\"1,1,1,1\">2025-01-28 End of Aardwolf's Birthday Celebration & The Wild Hunt</>\r\n\r\n<RichColor Color=\"1,1,1,1\">2025-01-01 Rebuild Progress: </>\r\n<RichColor Color=\"1,1,1,1\">- Working on final settings for all 5 clusters. </>\r\n\r\n<RichColor Color=\"1,1,1,1\">2025-01-01</>\r\n<RichColor Color=\"1,1,1,1\">- Dino Depot is removed. </>\r\n<RichColor Color=\"1,1,1,1\">- Potions Plus by Gaia is added.</>\r\n<RichColor Color=\"1,1,1,1\">- Settings for B+, Super Cryo Storage, Potions Plus, GG Sky Islands, and starters for WBUI are done!</>\r\n"
+					},
+					{
+						"title": "<TextStyle.White>FUTURE NEWS</>",
+						"text": "<RichColor Color=\"1,1,1,1\">My Other Home WILL BE REBUILT with all official DLCs. </>\r\n\r\n<RichColor Color=\"1,1,1,1\">2025-10-08 </>\r\n<RichColor Color=\"1,1,1,1\">I am currently building the machine for a different cluster. My Other Life ASA is the third cluster I will build after My Other Descent and My Other Life ASE. When the cluster is built on our physical home hosted machines I will try to host all current official maps with the equipment we have available. </>\r\n\r\n<RichColor Color=\"1,1,0,1\">2025-10-31 Aardwolf Memorial Event Ends</>\r\n\r\n<RichColor Color=\"1,1,0,1\">2025/11/14 End of Fear Ascended & Halloween Dino Colours</>\r\n\r\n<RichColor Color=\"1,1,0,1\">2025-11-14 to 2025-12-05 Turkey Trial Event</>\r\n<RichColor Color=\"1,1,0,1\">2025-12-05 to 2026-01-30 Winter Wonderland</>\r\n<RichColor Color=\"1,1,0,1\">2026-01-16 to 2026-01-30 Aardwolf's Birthday Celebration</>\r\n<RichColor Color=\"1,1,0,1\">2026-01-30 to 2026-02-27 Love Ascended</>"
+					},
+					{
+						"title": "<TextStyle.White>Welcome to My Other Home Cluster</>",
+						"text": "<RichColor Color=\"1,1,0,1\">We're glad you joined the neighborhood!</>\r\n\r\n<RichColor Color=\"1,1,1,1\">This cluster is for people who want to build creative bases, collect unique looking dinos, and progress at a slower pace. \"Cheats\" and QoL is limited. There are no auto-generating resources. Nothing is included which replaces something a dinosaur can do for you. </>\r\n\r\n<RichColor Color=\"1, 0.65, 0, 1\">!!! Please be aware !!!</> \r\n<RichColor Color=\"1,1,1,1\">The worst bugs and setbacks during Early Access are from structure, decoration, and creature mods. We have all three in abundance! This means we're more vulnerable to losses or server down-time from updates. Especially official ones. This cluster is for builders, but not for the faint of heart. </>\r\n\r\n<RichColor Color=\"1,1,1,1\">Here are the main points of the theme for My Other Home</>\r\n\r\n<RichColor Color=\"1,1,1,1\">- PC Only. </>\r\n<RichColor Color=\"1,1,1,1\">- Build, deco, some custom dinos. </>\r\n<RichColor Color=\"1,1,1,1\">- Heavily modded</>\r\n<RichColor Color=\"1,1,1,1\">- #3 of 3 ASA clusters slowest progression. </>\r\n<RichColor Color=\"1,1,1,1\">- #2 of 3 ASA clusters for dino survival.</>\r\n<RichColor Color=\"1,1,1,1\">- Only Automation is for sorting, crop maintenance, and egg incubation. No automation for anything a dino can do for you.</>\r\n<RichColor Color=\"1,1,1,1\">- Zero passive resource generation. If you want it, you have to harvest it.</>\r\n<RichColor Color=\"1,1,1,1\">- Medium level breeding difficulty, mutation chance increases  with craftable potions and some other breeding helper potions for convenience. </>"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "About MOA",
+				"imageurl": "https://i.imgur.com/PKNSUCX.png",
+				"content": [
+					{
+						"title": "<TextStyle.White>Who are My Other Arks?</>",
+						"text": "My Other Arks continues the legacy begun by Aardwolf in 2017 with his multiple clusters for ARK Survival Evolved. At the height of our community, we had over 51 servers across 4 clusters. \r\n\r\nWe're in the process of rebuilding after Aardwolf passed away in October, 2024. \r\n\r\nWe have one to four maps up for each of the original 5 clusters that existed at the time of Aardwolf's passing, and some of the original server components to begin rebuilding! The only limit on having our clusters rebuilt to where they were is the time for Rebelweasel to physically put them together. \r\n\r\nWe have 2 ASE servers and 2 ASA servers. \r\nAll ASA servers have within-game Cluster & Discord Cross-Chat. \r\n\r\nHere is a brief description of all clusters within My Other Arks. Each one is carefully tuned to a different range of difficulty and play-style.\r\n\r\n<TextStyle.White>---ASA CLUSTERS FOR DIFFERENT PLAY STYLES---</>\r\n<RichColor Color=\"0,0,1,1\">My Other Home [Home]</>\r\n- PC Only. \r\n- Build, deco, some custom dinos. \r\n- Heavily modded, slow progression. \r\n- #2 of 2 ASA clusters for slowest character progression. \r\n- #2 of 2 ASA clusters for dino survival difficulty.\r\n- Only Automation is item sorting and crop maintenance. No automation for anything a dino can do for you.\r\n- Medium level breeding difficulty, more costly mutations and potions for convenience. No automated egg pickups, incubations, and baby nannies when dinos can do it for you!\r\n\r\n<RichColor Color=\"0,0,1,1\">My Other Life ASA [LifeASA]</>\r\n- PC & Consoles. \r\n- High Level QoL focus so you can reach end-game quickly.\r\n- The easiest of all our ASA servers. \r\n- #1 of 3 ASA servers for quickest progression. \r\n- #1 of 3 clusters for easiest dino survival.\r\n- Automation.\r\n- Passive resource generation systems.\r\n- Easiest and quickest automated breeding with potions for Gender Change, Instant Grow, Skip Breeding Timer, etc. \r\n\r\n<TextStyle.White>---OUR ORIGINAL ASE CLUSTERS---</>\r\n<RichColor Color=\"0,0,1,1\">Aardwolf's Spirit ASE [AASpirit]</> \r\n- PC Epic & Steam cross-play. \r\n- No mods, but boosted stats.\r\n\r\n<RichColor Color=\"0,0,1,1\">My Other Life ASE [LifeASE]</> \r\n- PC Steam Only. \r\n- High Level QoL focus so you can reach end-game quickly.\r\n"
+					},
+					{
+						"title": "JSON settings:",
+						"text": "OpenButton  -  0/1/2/3/4/5/6, default:0, 0=F1, 1=F2, 2=F3, 3=F4, 4=F5, 5=Delete, 6=Home  -  Determines the button the player needs to press to open the UI.\n\nHideIcon  -  true/false, default: false  -  If true the Icon in the bottom left corner vanishes after some time.\n\nHideIconAfter  -  integer, default: 60  -  Determines after how many seconds the Icon vanishes.\n\nIconURL  -  \"URL\", default: \"https://i.imgur.com/OZ6xOjY.png\"  -  You can upload a custom image somewhere (e.g. imgur, link down below) and it will be used as the Icon in the bottom left.\n\nDisableIconText  -  true/false, default:false  -  If true the text \"F1 for Info\" will not be displayed.\n\nIconPosition  -  0/1/2/3, default:0, 0=Top Left, 1=Top Right, 2=Bottom Right, 3=Bottom Left  -  Set the position of the Icon.\n\nIconTextColor  -  0/1/2/3/4/5/6/7/8, default:0, 0=Light Blue, 1=Red, 2=Green, 3=Blue, 4=Yellow, 5=Orange, 6=Violet, 7=Black, 8=White  -  Sets the color of the \"F1 For Info\" text.\n\nOpenOnStart  -  true/false, default: true  -  If true the UI will open automatically after the player spawned.\n\nOpenOnStartOnlyNewPlayers  -  true/false, default: true  -  If true the UI only opens automatically the first time the player spawns on the server.\n\nUpdateInterval  -  integer, default: 12  -  This value determines the time in hours the mod automatically pulls the JSON from the URL to update settings.\n\nGENERAL INFORMATION:\n\n\nFor the rest of the settings pls checkout the Wiki or the example JSON linked down below.\n\nIn order to pass the JSON-validation you have to use \"*backslash*n\" without a space to generate newlines. although the mod should handle regular newlines just fine.\n\nSpecial characters like \" have to be escaped with a *backslash*\n\nYou can trigger an update of the JSON via console command: \"cheat scriptcommand WBUI2 update\"\n\nBe careful with the file size of the images. The user have to download the images."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Aardwolf Memorial",
+				"imageurl": "https://i.imgur.com/0Fsi7QL.jpeg",
+				"content": [
+					{
+						"title": "<TextStyle.Yellow>Aardwolf's Memorial Event</>",
+						"text": "<TextStyle.Yellow>October 13th is the first year anniversary of Aardwolf's death.</>\r\nThis is the best date I can trace it to, based on my communications with him. To celebrate Aardwolf, and all he's done for us, all clusters will have some settings changed. These settings will last from now until October 31st.\r\n\r\n<TextStyle.Yellow>New Community Activity Mods:</>\r\nThere are 4 new mods that we've added, with hopes to set up activities in the future.\r\n- ArkFootball by matheusrp11\r\n- LudopARK CASINO Freemium by Troyar_ARK\r\n  - This is a 'Freemium' mod. You do not have to buy anything to join the server. Players can use most items in the Casino. Lottery and Raptor race require paid Premium to play in the game.\r\n- Maze O Builder by mobevents\r\n- Racing Babies & Co by mobevents\r\n\r\n\r\n<TextStyle.Yellow>Aardwolf Memorial Settings For My Other Life:</>\r\n- Baby Mature Speed double=80\r\n- Incubation/Gestation Speed double=80\r\n- XP Multiplier [Global] double=1\r\n- All Structure and Dino decay paused\r\n- All player structures invincible to damage from wild dinos\r\n- Fish loot quality double=6\r\n- Supply drop quality double=3\r\n- Taming Speed double=40\r\n- Passive taming speed cut in half=0.0375\r\n- Egg laying interval cut in half=0.5\r\n- Crop Growth Speed Multiplier x5\r\n- No Disease=True\r\n- Doubled Harvest Rates=6\r\n"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/WzkJUqAY9c"
+			},
+			{
+				"text": "Wiki",
+				"url": "https://ark.wiki.gg/wiki/ARK_Wiki"
+			},
+			{
+				"text": "MBP Video",
+				"url": "https://youtu.be/YVjisdkF24Y"
+			}
+		],
+		"version": 2
+	}
+}
