@@ -26,11 +26,11 @@
 					},
 					{
 						"title": "<TextStyle.White>FUTURE NEWS</>",
-						"text": "<RichColor Color=\"1,1,0,1\">2026-01-02 Valguero switches to The Island</>\r\n<RichColor Color=\"1,1,0,1\">2026-01-30 Winter Wonderland Ends</>\r\n<RichColor Color=\"1,1,0,1\">2026-01-16 to 2026-01-30 Aardwolf's Birthday Celebration</>\r\n<RichColor Color=\"1,1,0,1\">2026-01-30 to 2026-02-27 Love Ascended</>"
+						"text": "<RichColor Color=\"1,1,0,1\">2026, January 02 Valguero switches to The Island</>\r\n<RichColor Color=\"1,1,0,1\">2026, January 30 Winter Wonderland Ends</>\r\n<RichColor Color=\"1,1,0,1\">2026, January 16 to 2026, January 30 Aardwolf's Birthday Celebration</>\r\n<RichColor Color=\"1,1,0,1\">2026, January 30 to 2026 February 27 Love Ascended</>"
 					},
 					{
 						"title": "<TextStyle.White>MY OTHER LIFE</>",
-						"text": "<TextStyle.Yellow>Welcome to My Other Life Cluster</>\r\nThis cluster is for people who want to take it easy, and reach end-game quickly without a lot of time invested. \r\n\r\n<RichColor Color=\"1,1,0,1\">2025-10-08 Current Maps</>\r\n- Ragnarok [permanent map] \r\n- Valguero [rotates to The Island 01/02/2026"
+						"text": "<TextStyle.Yellow>Welcome to My Other Life Cluster</>\r\nThis cluster is for people who want to take it easy, and reach end-game quickly without a lot of time invested. \r\n\r\n<RichColor Color=\"1,1,0,1\">2025, December 13 Current Maps</>\r\n- Ragnarok [permanent map] \r\n- Valguero [rotates to The Island January 02, 2026"
 					}
 				]
 			},
@@ -82,3 +82,4 @@
 		"version": 2
 	}
 }
+
