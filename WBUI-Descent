@@ -6,31 +6,31 @@
 			"openbutton": 2,
 			"hideicon": true,
 			"hideiconafter": 60,
-			"iconurl": "https://drive.google.com/uc?export=download&id=1L09lhxacIEmVTok5rtq3bMtB6VapCqpx",
-			"disableicontext": false,
+			"iconurl": "https://i.imgur.com/QTj9Ls1.jpeg",
+			"disableicontext": true,
 			"iconposition": 2,
 			"icontextcolor": 3,
 			"openonstart": true,
-			"openonstartonlynewplayers": true,
+			"openonstartonlynewplayers": false,
 			"updateinterval": 12
 		},
 		"tabs": [
 			{
 				"layout": 3,
 				"buttontext": "Hi & News",
-				"imageurl": "https://i.imgur.com/DdMidCO.jpg",
+				"imageurl": "https://i.imgur.com/Ss5MW3Q.jpg",
 				"content": [
 					{
 						"title": "<TextStyle.White>CURRENT NEWS</>",
-						"text": "<TextStyle.Orange>You must place a Massive Base Protection Flag or your structures will disappear in 2 days!!!. See the [MBP Video] link below for YouTube Tutorial.</>\r\n(scroll down for older news)\r\n\r\n<RichColor Color=\"1,1,0,1\">2025-December-05 Winter Wonderland Starts</>\r\n\r\n2025-December-08 Descent Settings and Testing begins"
+						"text": "<RichColor Color=\"1, 0, 0.65, 1\">You must place a Massive Base Protection Flag or your structures will disappear in 2 days!!!. See the [MBP Video] link below for YouTube Tutorial.</>\r\n\r\n<RichColor Color=\"1,1,0,1\">2026-Saturday, January-03 Public Launch!</>\r\n<RichColor Color=\"1,1,0,1\">2025-December-05 Winter Wonderland Starts</>\r\n\r\n(scroll down for older news)\r\n2025-December-08 Descent Settings and Testing begins"
 					},
 					{
 						"title": "<TextStyle.White>FUTURE NEWS</>",
-						"text": "<RichColor Color=\"1,1,0,1\">2026-January-02 Estimated Launch for My Other Descent, if not before</>\r\n\r\n<RichColor Color=\"1,1,0,1\">2026-01-30 Winter Wonderland Ends</>\r\n<RichColor Color=\"1,1,0,1\">2026-01-16 to 2026-01-30 Aardwolf's Birthday Celebration</>\r\n<RichColor Color=\"1,1,0,1\">2026-01-30 to 2026-02-27 Love Ascended</>"
+						"text": "<RichColor Color=\"1,1,0,1\">2026-01-16 to 2026-01-30 Aardwolf's Birthday Celebration</>\r\n\r\n2026-01-30 Winter Wonderland Ends\r\n2026-01-30 to 2026-02-27 Love Ascended\r\n2026-Friday, February 06 MAP CHANGE! The Center > The Island"
 					},
 					{
 						"title": "<TextStyle.White>MY OTHER DESCENT</>",
-						"text": "<TextStyle.Yellow>Welcome to My Other Descent (to Madness)</>\r\n\r\nThis cluster is for people who want to have a challenge! Based on the Ark Descended dino overhaul, you can expect many deaths, and a rewarding tiered system of dino bosses to defeat.   \r\n\r\n<RichColor Color=\"1,1,0,1\">2025-December-13 Current Maps</>\r\n- Astraeos DLC [permanent map] \r\n- The Center [rotates to Scorched Earth February 06, 2026"
+						"text": "<TextStyle.Yellow>Welcome to My Other Descent (to Madness)</>\r\n\r\nThis cluster is for people who want to have a challenge! Based on the Ark Descended dino overhaul, you can expect many deaths, slow character leveling, and a rewarding tiered system of dino bosses to defeat.   \r\n\r\n<RichColor Color=\"1,1,0,1\">MAPS</>\r\n- Astraeos DLC [permanent map] \r\n- The Center\r\n- The Island Friday, February 06, 2026\r\n- Scorched Earth - Friday, March 06, 2026\r\n"
 					}
 				]
 			},
@@ -41,7 +41,7 @@
 				"content": [
 					{
 						"title": "<TextStyle.White>Who are My Other Arks?</>",
-						"text": "My Other Arks continues the legacy begun by Aardwolf in 2017 with his multiple clusters for ARK Survival Evolved. At the height of our community, we had over 51 servers across 4 clusters. \r\n\r\nWe're in the process of rebuilding after Aardwolf passed away in October, 2024. \r\n\r\nWe are hosted on Nitrado, and depend on donations to continue. We've reduced to 2 clusters with 2 maps each until we receive further donations, or when Rebelweasel has a home again! \r\n\r\nHere is a brief description of all clusters within My Other Arks. Each one is carefully tuned to a different range of difficulty and play-style.\r\n\r\n<TextStyle.White>---ASA CLUSTER---</>\r\n<RichColor Color=\"0,0,1,1\">My Other Life ASA [LifeASA]</>\r\n- PC & Consoles. \r\n- High Level QoL focus so you can reach end-game quickly.\r\n- The easiest of all our ASA servers. \r\n- #1 of 3 ASA servers for quickest progression. \r\n- #1 of 3 clusters for easiest dino survival.\r\n- Automation.\r\n- Passive resource generation systems.\r\n- Easiest and quickest automated breeding with potions for Gender Change, Instant Grow, Skip Breeding Timer, etc. \r\n\r\n<TextStyle.White>---OUR ORIGINAL ASE CLUSTER---</>\r\n<RichColor Color=\"0,0,1,1\">Aardwolf's Spirit ASE [AASpirit]</> \r\n- PC Epic & Steam cross-play. \r\n- No mods, but boosted stats.\r\n"
+						"text": "My Other Arks continues the legacy begun by Aardwolf in 2017 with his multiple clusters for ARK Survival Evolved. At the height of our community, we had over 51 servers across 4 clusters. \r\n\r\nWe're in the process of rebuilding after Aardwolf passed away in October, 2024. \r\n\r\nWe are hosted on Nitrado, and depend on donations to continue. We've reduced to 3 clusters with 2 maps each until we receive further donations, or when Rebelweasel has a home again! \r\n\r\nHere is a brief description of all clusters within My Other Arks. Each one is carefully tuned to a different range of difficulty and play-style.\r\n\r\n<TextStyle.White>---ASA CLUSTER---</>\r\n<RichColor Color=\"0,0,1,1\">My Other Descent (to Madness)</>\r\nHighly difficult cluster built around the dino overhaul mod \"ARK Descended\". \r\n \r\n- Crossplay\r\n- 2 maps\r\n- Astraeos DLC Permanent Base Map\r\n- Second map rotates each month\r\n- Medium level character progression and XP\r\n- Hard level dinosaur danger and survival.\r\n- Automation\r\n- Passive Resource Generation\r\n- Easiest for Dino breeding with Crazy's Potions for Gender Change, Instant Grow, Skip Breeding Timer, etc.\r\n- Best Gear crafted through the Descent mod, or gathered from Supply Drops.\r\n\r\n\r\n<RichColor Color=\"0,0,1,1\">My Other Life ASA [LifeASA]</>\r\n- PC & Consoles. \r\n- High Level QoL focus so you can reach end-game quickly.\r\n- The easiest of all our ASA servers. \r\n- #1 of 3 ASA servers for quickest progression. \r\n- #1 of 3 clusters for easiest dino survival.\r\n- Automation.\r\n- Passive resource generation systems.\r\n- Easiest and quickest automated breeding with potions for Gender Change, Instant Grow, Skip Breeding Timer, etc. \r\n\r\n<TextStyle.White>---OUR ORIGINAL ASE CLUSTER---</>\r\n<RichColor Color=\"0,0,1,1\">Aardwolf's Spirit ASE [AASpirit]</> \r\n- PC Epic & Steam cross-play. \r\n- No mods, but boosted stats.\r\n"
 					}
 				]
 			},
@@ -77,6 +77,10 @@
 			{
 				"text": "Donate",
 				"url": "https://discord.com/channels/419656688442802196/1307089223106691133/1307089223106691133"
+			},
+			{
+				"text": "Descended Guide",
+				"url": "https://docs.google.com/document/d/1nbfmhUfuiomGcIVUNATzeDTdg8YxxQ0i2cVM2RDoZwE/edit?tab=t.0#heading=h.y2xrcpynkq01"
 			}
 		],
 		"version": 2
