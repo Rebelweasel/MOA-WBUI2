@@ -55,6 +55,29 @@
 						"text": "<TextStyle.Yellow>Aardwolf's Legacy Rebuild</>\r\n<RichColor Color=\"1,1,1,1\">All of our clusters and maps WILL BE REBUILT as soon as life circumstances permit. In the meantime, we are dependent on financial support from donations to maintain rented servers with Nitrado. </>\r\n\r\n<RichColor Color=\"1,1,1,1\">2025-11-16 </>\r\n<RichColor Color=\"1,1,1,1\">I have lost my home and rebuild has been put on hold while I live temporarily with friends. All servers will expire on their Nitrado rentals unless they are supported with donations. Please see the [Donate] link below for information. </>\r\n\r\n<RichColor Color=\"1,1,1,1\">2025-10-08 </>\r\n<RichColor Color=\"1,1,1,1\">I am currently building the machine for a different cluster. My Other Life ASA is the third cluster I will build after My Other Descent and My Other Life ASE. When the cluster is built on our physical home hosted machines I will try to host all current official maps with the equipment we have available. </>"
 					}
 				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "RULES",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "PLAYERS",
+						"text": "<TextStyle.White>Rule Zero</>\r\nAdmins have full judgment on any issue on the servers. \r\nEven if something is not completely spelled out in detail, we expect compliance and politeness from players if we ask them to alter something. We refuse to bloat our rules for every single circumstance which might come up. Learn our rules, and follow the simple guideline we use when we formed our server rules: \"Am I inconveniencing other players?\" \r\n \r\n- No offensive names for anything. Names must use normal English alphabet characters, no special symbols or emoji. \r\n\r\n- Verbal/Text harassment of others will get you banned. \r\n\r\n- Picking up players, dragging players, dropping or kiting dinos to people or bases is forbidden. To protect yourself, we recommend you log out in a bed so others cannot drag you. People can and do still mesh into people's bases.\r\n\r\n- Do not interfere with a dino that another player is taming.\r\n"
+					},
+					{
+						"title": "BUILDING",
+						"text": "<TextStyle.White>You MUST place a Massive Base Protection Flag</>\r\n- Any structures not protected by a flag, or whitelisted will be destroyed automagically within 2 days. \r\n- There is a link button below for a MBP Video Tutorial\r\n- Items that will not be destroyed outside a flag: \r\n  - Oil Pump, Omega Teleporter, Sleeping Bag, (more to come)\r\n\r\n- No bases at popular resource areas, artifacts, or special exploration caves. If your base is built on a player spawn point, you will be asked to move or unlock it. \r\n\r\n- Resource/Artifact Teleports, Oil Pumps, Gas Collectors, and SirM8 storages at location, should ALWAYS be public & unlocked. \r\n\r\n- Do not make your Teleport pads inside tek shields or locked bases “public”.\r\n\r\n- Bases should not obstruct major passage points on a map like rivers or tunnels between map sections or leading to the space zone on Gen2 for example.\r\n\r\n- Trains ARE NOT WHITELISTED YET. They will disappear until I can figure out how to whitelist them. "
+					},
+					{
+						"title": "CREATURES",
+						"text": "- Animals should not be left unattended outside your base, or on wander, or on Aggressive mode. If you've lost connection, you can file a (Discord works on cell phones) and we may attempt to rescue your animals so we don't happen upon them and destroy them as abandoned.\r\n\r\n- Do NOT knock a dino out then abandon it. Tame it, or kill it if you decide you don't want it.\r\n\r\n- If you no longer want an animal, you must find it a new home or destroy it. Do not leave it unclaimed.\r\n\r\n- DO NOT drop any Wyvern, Drake, Deino, Magmasaur, Rock Drake, etc eggs. Dropping them in lava does not destroy them. They take too long to decay and will prevent respawn of new eggs in nests. DESTROY or CONSUME them."
+					},
+					{
+						"title": "GAMEPLAY",
+						"text": ""
+					}
+				]
 			}
 		],
 		"links": [
@@ -81,6 +104,14 @@
 			{
 				"text": "Descended Guide",
 				"url": "https://docs.google.com/document/d/1nbfmhUfuiomGcIVUNATzeDTdg8YxxQ0i2cVM2RDoZwE/edit?tab=t.0#heading=h.y2xrcpynkq01"
+			},
+			{
+				"text": "Shop",
+				"url": "https://discord.com/channels/419656688442802196/1456107755919249510"
+			},
+			{
+				"text": "HELP",
+				"url": "https://discord.com/channels/419656688442802196/1293692096691179541"
 			}
 		],
 		"version": 2
