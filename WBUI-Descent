@@ -82,36 +82,36 @@
 		],
 		"links": [
 			{
+				"text": "HELP",
+				"url": "https://discord.com/channels/419656688442802196/1293692096691179541"
+			},
+			{
 				"text": "Discord",
 				"url": "https://discord.gg/WzkJUqAY9c"
-			},
-			{
-				"text": "Wiki",
-				"url": "https://ark.wiki.gg/wiki/ARK_Wiki"
-			},
-			{
-				"text": "Shiny Info",
-				"url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
-			},
-			{
-				"text": "MBP Video",
-				"url": "https://youtu.be/YVjisdkF24Y"
 			},
 			{
 				"text": "Donate",
 				"url": "https://discord.com/channels/419656688442802196/1307089223106691133/1307089223106691133"
 			},
 			{
-				"text": "Descended Guide",
-				"url": "https://docs.google.com/document/d/1nbfmhUfuiomGcIVUNATzeDTdg8YxxQ0i2cVM2RDoZwE/edit?tab=t.0#heading=h.y2xrcpynkq01"
+				"text": "MBP",
+				"url": "https://youtu.be/YVjisdkF24Y"
 			},
 			{
 				"text": "Shop",
 				"url": "https://discord.com/channels/419656688442802196/1456107755919249510"
 			},
 			{
-				"text": "HELP",
-				"url": "https://discord.com/channels/419656688442802196/1293692096691179541"
+				"text": "Desc Guide",
+				"url": "https://docs.google.com/document/d/1nbfmhUfuiomGcIVUNATzeDTdg8YxxQ0i2cVM2RDoZwE/edit?tab=t.0#heading=h.y2xrcpynkq01"
+			},
+			{
+				"text": "Shiny",
+				"url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
+			},
+			{
+				"text": "Ark Wiki",
+				"url": "https://ark.wiki.gg/wiki/ARK_Wiki"
 			}
 		],
 		"version": 2
