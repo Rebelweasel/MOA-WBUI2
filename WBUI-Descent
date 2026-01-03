@@ -35,24 +35,17 @@
 				]
 			},
 			{
-				"layout": 1,
-				"buttontext": "About MOA",
-				"imageurl": "https://i.imgur.com/PKNSUCX.png",
+				"layout": 2,
+				"buttontext": "Events & Gifts",
+				"imageurl": "",
 				"content": [
 					{
-						"title": "<TextStyle.White>Who are My Other Arks?</>",
-						"text": "My Other Arks continues the legacy begun by Aardwolf in 2017 with his multiple clusters for ARK Survival Evolved. At the height of our community, we had over 51 servers across 4 clusters. \r\n\r\nWe're in the process of rebuilding after Aardwolf passed away in October, 2024. \r\n\r\nWe are hosted on Nitrado, and depend on donations to continue. We've reduced to 3 clusters with 2 maps each until we receive further donations, or when Rebelweasel has a home again! \r\n\r\nHere is a brief description of all clusters within My Other Arks. Each one is carefully tuned to a different range of difficulty and play-style.\r\n\r\n<TextStyle.White>---ASA CLUSTER---</>\r\n<RichColor Color=\"0,0,1,1\">My Other Descent (to Madness)</>\r\nHighly difficult cluster built around the dino overhaul mod \"ARK Descended\". \r\n \r\n- Crossplay\r\n- 2 maps\r\n- Astraeos DLC Permanent Base Map\r\n- Second map rotates each month\r\n- Medium level character progression and XP\r\n- Hard level dinosaur danger and survival.\r\n- Automation\r\n- Passive Resource Generation\r\n- Easiest for Dino breeding with Crazy's Potions for Gender Change, Instant Grow, Skip Breeding Timer, etc.\r\n- Best Gear crafted through the Descent mod, or gathered from Supply Drops.\r\n\r\n\r\n<RichColor Color=\"0,0,1,1\">My Other Life ASA [LifeASA]</>\r\n- PC & Consoles. \r\n- High Level QoL focus so you can reach end-game quickly.\r\n- The easiest of all our ASA servers. \r\n- #1 of 3 ASA servers for quickest progression. \r\n- #1 of 3 clusters for easiest dino survival.\r\n- Automation.\r\n- Passive resource generation systems.\r\n- Easiest and quickest automated breeding with potions for Gender Change, Instant Grow, Skip Breeding Timer, etc. \r\n\r\n<TextStyle.White>---OUR ORIGINAL ASE CLUSTER---</>\r\n<RichColor Color=\"0,0,1,1\">Aardwolf's Spirit ASE [AASpirit]</> \r\n- PC Epic & Steam cross-play. \r\n- No mods, but boosted stats.\r\n"
-					}
-				]
-			},
-			{
-				"layout": 1,
-				"buttontext": "Aardwolf Legacy",
-				"imageurl": "https://i.imgur.com/0Fsi7QL.jpeg",
-				"content": [
+						"title": "<TextStyle.White>Events</>",
+						"text": "<RichColor Color=\"1, 0, 0.65, 1\">Please click the \"Events\" tab at the bottom. It will take you to our discord forum for Descent Events where you can get full details of current and future plans</>\r\n\r\n<TextStyle.Violet>Launch Day January 3 2026</>\r\nWelcome to the public Launch Day of My Other Descent!  \r\nThe Ark Descended mod was suggested by our community member Zyou. We have 2 maps sponsored by Jaile and Rebelweasel. Our settings and mod collection were extensively tested by Zippler! "
+					},
 					{
-						"title": "<TextStyle.Yellow>Aardwolf Legacy</>",
-						"text": "<TextStyle.Yellow>Aardwolf's Legacy Rebuild</>\r\n<RichColor Color=\"1,1,1,1\">All of our clusters and maps WILL BE REBUILT as soon as life circumstances permit. In the meantime, we are dependent on financial support from donations to maintain rented servers with Nitrado. </>\r\n\r\n<RichColor Color=\"1,1,1,1\">2025-11-16 </>\r\n<RichColor Color=\"1,1,1,1\">I have lost my home and rebuild has been put on hold while I live temporarily with friends. All servers will expire on their Nitrado rentals unless they are supported with donations. Please see the [Donate] link below for information. </>\r\n\r\n<RichColor Color=\"1,1,1,1\">2025-10-08 </>\r\n<RichColor Color=\"1,1,1,1\">I am currently building the machine for a different cluster. My Other Life ASA is the third cluster I will build after My Other Descent and My Other Life ASE. When the cluster is built on our physical home hosted machines I will try to host all current official maps with the equipment we have available. </>"
+						"title": "<TextStyle.White>Gifts</>",
+						"text": "<RichColor Color=\"1, 0, 0.65, 1\">How to Get Gifts</>\r\nClick on the button below for Gifts. It will take you to our discord \"descent-gifts\" text channel. Read the pinned message at the top for full instructions on how to receive gifts in game!\r\n\r\n<RichColor Color=\"1, 0, 0.65, 1\">Launch Day Gifts</>\r\n- Ordinary Therizino and Saddle - Available on Astraeos. This is sponsored by Jaile as a gift to all players. \r\n\r\n- Miner Anky - Available on The Center. This is sponsored by Rebelweasel as a gift to all players and a thank you to our community for sticking through the hard times in the last couple years. "
 					}
 				]
 			},
@@ -62,20 +55,38 @@
 				"imageurl": "",
 				"content": [
 					{
-						"title": "PLAYERS",
-						"text": "<TextStyle.White>Rule Zero</>\r\nAdmins have full judgment on any issue on the servers. \r\nEven if something is not completely spelled out in detail, we expect compliance and politeness from players if we ask them to alter something. We refuse to bloat our rules for every single circumstance which might come up. Learn our rules, and follow the simple guideline we use when we formed our server rules: \"Am I inconveniencing other players?\" \r\n \r\n- No offensive names for anything. Names must use normal English alphabet characters, no special symbols or emoji. \r\n\r\n- Verbal/Text harassment of others will get you banned. \r\n\r\n- Picking up players, dragging players, dropping or kiting dinos to people or bases is forbidden. To protect yourself, we recommend you log out in a bed so others cannot drag you. People can and do still mesh into people's bases.\r\n\r\n- Do not interfere with a dino that another player is taming.\r\n"
+						"title": "<TextStyle.White>PLAYERS</>",
+						"text": "<TextStyle.Violet>Rule Zero</>\r\nDo not '@' or DM Admins without permission. If you need help, fill out a help ticket on Discord. Click the link below to be taken directly there. </>\r\n\r\n- Admins have full judgment on any issue on the servers. Don't look for loopholes in the rules! Follow this guideline: \"Does this trouble other players?\" \r\n\r\n- Nothing should indicate an attempt to attack others, be sexually predatory, or excessively violent/gory.\r\n\r\n- Character names must be original, not \"human\". Admins will change your name for you. \r\n\r\n- ASA Your tribe is automatically created. Press L to change its name.\r\n\r\n- Character names must be original, not \"human\". Admins will force-change names. \r\n\r\n- No Griefing. You're a gamer, you know what that means.\r\n\r\n- Don't be hurtful just to be funny. \"It's just a joke\" is not an excuse."
 					},
 					{
-						"title": "BUILDING",
-						"text": "<TextStyle.White>You MUST place a Massive Base Protection Flag</>\r\n- Any structures not protected by a flag, or whitelisted will be destroyed automagically within 2 days. \r\n- There is a link button below for a MBP Video Tutorial\r\n- Items that will not be destroyed outside a flag: \r\n  - Oil Pump, Omega Teleporter, Sleeping Bag, (more to come)\r\n\r\n- No bases at popular resource areas, artifacts, or special exploration caves. If your base is built on a player spawn point, you will be asked to move or unlock it. \r\n\r\n- Resource/Artifact Teleports, Oil Pumps, Gas Collectors, and SirM8 storages at location, should ALWAYS be public & unlocked. \r\n\r\n- Do not make your Teleport pads inside tek shields or locked bases “public”.\r\n\r\n- Bases should not obstruct major passage points on a map like rivers or tunnels between map sections or leading to the space zone on Gen2 for example.\r\n\r\n- Trains ARE NOT WHITELISTED YET. They will disappear until I can figure out how to whitelist them. "
+						"title": "<TextStyle.White>BUILDING</>",
+						"text": "<TextStyle.White>You MUST place a Massive Base Protection Flag</>\r\n- Any structures not protected by a flag, or whitelisted will be destroyed automagically within 2 days. \r\n- There is a link button below for a MBP Video Tutorial and current list of things that are safe to put outside a flag. \r\n\r\n- No bases at popular resource areas, artifacts, or special exploration caves. If your base is built on a player spawn point, you will be asked to move or unlock it. \r\n\r\n- Resource/Artifact Teleports, Oil Pumps, Gas Collectors, and SirM8 storages at location, should ALWAYS be public & unlocked. \r\n\r\n- Bases should not obstruct major passage points on a map like rivers or tunnels between map sections or leading to the space zone on Gen2 for example.\r\n\r\n- Trains ARE NOT WHITELISTED YET. They will disappear until I can figure out how to whitelist them. Once it's safe, a train system to a major area in the map is a great idea! We use Public Trains so we can coordinate a full train pathway around the map. Unlock the train engine inventory, but you don't have to leave fuel inside. Coordinate with anyone who asks to add side lines to your train line."
 					},
 					{
-						"title": "CREATURES",
-						"text": "- Animals should not be left unattended outside your base, or on wander, or on Aggressive mode. If you've lost connection, you can file a (Discord works on cell phones) and we may attempt to rescue your animals so we don't happen upon them and destroy them as abandoned.\r\n\r\n- Do NOT knock a dino out then abandon it. Tame it, or kill it if you decide you don't want it.\r\n\r\n- If you no longer want an animal, you must find it a new home or destroy it. Do not leave it unclaimed.\r\n\r\n- DO NOT drop any Wyvern, Drake, Deino, Magmasaur, Rock Drake, etc eggs. Dropping them in lava does not destroy them. They take too long to decay and will prevent respawn of new eggs in nests. DESTROY or CONSUME them."
-					},
+						"title": "<TextStyle.White>CREATURES</>",
+						"text": "- No offline breeding.\r\n\r\n- Don't interfere with someone else's tame.\r\n\r\n- Do NOT knock a dino out then abandon it. Tame it, or kill it if you decide you don't want it.\r\n\r\n- If you no longer want an animal, you must find it a new home or destroy it. Do not leave it unclaimed.\r\n\r\n- You can let animals wander ONLY in your base and SPAYED so they don't breed. Remember this lags people so be reasonable and nice about how many you have on wander.\r\n\r\n- Eat your babies! -- err I mean eat or destroy unwanted babies. Err Wyvern, Rockdrake, etc Eggs. NO they do not despawn if you drop them. Nor are they damaged in lava.\r\n\r\n- Animals should not be left unattended outside your base. If you've lost connection, you can file a Help Ticket. (Discord works on cell phones) and we may attempt to rescue your animals so we don't happen upon them and destroy them as abandoned.\r\n\r\n- NEVER give or trade a blueprinted animal to someone outside of your tribe. Blueprints are exact copies with the same Creature ID#, so if a person pulls their dino to them using dino finder, it might pull someone else's instead that shares the same ID#. Only use blueprint animals for breeding, or emergency backups.\r\n\r\n- Empty Beaver dams completely, even if you have to dump stuff on the ground, so that they respawn full for other players. No, beavers do not refill them!"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "About MOA",
+				"imageurl": "https://i.imgur.com/HiCIB1j.png",
+				"content": [
 					{
-						"title": "GAMEPLAY",
-						"text": ""
+						"title": "<TextStyle.White>Who are My Other Arks?</>",
+						"text": "My Other Arks continues the legacy begun by Aardwolf in 2017 with his multiple clusters for ARK Survival Evolved. At the height of our community, we had over 51 servers across 4 clusters.\r\n\r\nWe're in the process of rebuilding after Aardwolf passed away in October, 2024.\r\n\r\nMOA is hosted on Nitrado, and depend on donations to continue. We've reduced to 3 clusters with 2 maps each until we receive further donations, or when Rebelweasel has a home again! \r\n\r\nHere is a brief description of all clusters within My Other Arks. Each one is carefully tuned to a different range of difficulty and play-style.\r\n\r\n<TextStyle.White>---ASA CLUSTERS---</>\r\n<RichColor Color=\"1, 0, 0.65, 1\">My Other Descent (to Madness)</>\r\nHighly difficult cluster built around the dino overhaul mod \"ARK Descended\". \r\n \r\n- Crossplay\r\n- 2 maps\r\n- Astraeos DLC Permanent Base Map\r\n- Second map rotates each month\r\n- Medium level character progression and XP\r\n- Hard level dinosaur danger and survival.\r\n- Automation\r\n- Passive Resource Generation\r\n- Easiest for Dino breeding with Crazy's Potions for Gender Change, Instant Grow, Skip Breeding Timer, etc.\r\n- Best Gear crafted through the Descent mod, or gathered from Supply Drops.\r\n\r\n\r\n<RichColor Color=\"0, 1, 1 ,1\">My Other Life ASA [LifeASA]</>\r\n- PC & Consoles. \r\n- High Level QoL focus so you can reach end-game quickly.\r\n- The easiest of all our ASA servers. \r\n- #1 of 3 ASA servers for quickest progression. \r\n- #1 of 3 clusters for easiest dino survival.\r\n- Automation.\r\n- Passive resource generation systems.\r\n- Easiest and quickest automated breeding with potions for Gender Change, Instant Grow, Skip Breeding Timer, etc. \r\n\r\n<TextStyle.White>---ASE CLUSTER---</>\r\n<RichColor Color=\"1,1,1,1\">Aardwolf's Spirit ASE [AASpirit]</> \r\n- PC Epic & Steam cross-play. \r\n- No mods, but boosted stats."
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Aardwolf Legacy",
+				"imageurl": "https://i.imgur.com/PCzws2X.jpeg",
+				"content": [
+					{
+						"title": "<TextStyle.Yellow>Aardwolf Legacy</>",
+						"text": "<TextStyle.Yellow>Aardwolf's Legacy Rebuild</>\r\n<RichColor Color=\"1,1,1,1\">All of our clusters and maps WILL BE REBUILT as soon as life circumstances permit. In the meantime, we are dependent on financial support from donations to maintain rented servers with Nitrado. </>\r\n\r\n<RichColor Color=\"1,1,1,1\">2025-11-16 </>\r\n<RichColor Color=\"1,1,1,1\">I have lost my home and rebuild has been put on hold while I live temporarily with friends. All servers will expire on their Nitrado rentals unless they are supported with donations. Please see the [Donate] link below for information. </>\r\n\r\n<RichColor Color=\"1,1,1,1\">2025-10-08 </>\r\n<RichColor Color=\"1,1,1,1\">I am currently building the machine for a different cluster. My Other Life ASA is the third cluster I will build after My Other Descent and My Other Life ASE. When the cluster is built on our physical home hosted machines I will try to host all current official maps with the equipment we have available. </>"
 					}
 				]
 			}
@@ -94,15 +105,19 @@
 				"url": "https://discord.com/channels/419656688442802196/1307089223106691133/1307089223106691133"
 			},
 			{
-				"text": "MBP",
-				"url": "https://youtu.be/YVjisdkF24Y"
-			},
-			{
-				"text": "Shop",
+				"text": "Gifts",
 				"url": "https://discord.com/channels/419656688442802196/1456107755919249510"
 			},
 			{
-				"text": "Desc Guide",
+				"text": "Events",
+				"url": "https://discord.com/channels/419656688442802196/1449939907928658113"
+			},
+			{
+				"text": "MBP",
+				"url": "https://www.youtube.com/watch?v=YVjisdkF24Y"
+			},
+			{
+				"text": "D Guide",
 				"url": "https://docs.google.com/document/d/1nbfmhUfuiomGcIVUNATzeDTdg8YxxQ0i2cVM2RDoZwE/edit?tab=t.0#heading=h.y2xrcpynkq01"
 			},
 			{
@@ -110,7 +125,7 @@
 				"url": "https://legacy.curseforge.com/ark-survival-ascended/mods/shiny-ascended/pages/shiny-ascended/shiny-abilities"
 			},
 			{
-				"text": "Ark Wiki",
+				"text": "Wiki",
 				"url": "https://ark.wiki.gg/wiki/ARK_Wiki"
 			}
 		],
