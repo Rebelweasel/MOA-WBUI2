@@ -5,13 +5,13 @@
 		{
 			"openbutton": 2,
 			"hideicon": true,
-			"hideiconafter": 60,
+			"hideiconafter": 120,
 			"iconurl": "https://i.imgur.com/QTj9Ls1.jpeg",
 			"disableicontext": true,
 			"iconposition": 2,
 			"icontextcolor": 3,
 			"openonstart": true,
-			"openonstartonlynewplayers": false,
+			"openonstartonlynewplayers": true,
 			"updateinterval": 12
 		},
 		"tabs": [
