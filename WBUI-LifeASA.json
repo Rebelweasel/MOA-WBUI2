@@ -7,7 +7,7 @@
 			"hideicon": true,
 			"hideiconafter": 60,
 			"iconurl": "https://i.imgur.com/PeH8iUg.png",
-			"disableicontext": false,
+			"disableicontext": true,
 			"iconposition": 2,
 			"icontextcolor": 3,
 			"openonstart": true,
