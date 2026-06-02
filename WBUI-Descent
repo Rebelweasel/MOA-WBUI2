@@ -6,7 +6,7 @@
 			"openbutton": 2,
 			"hideicon": true,
 			"hideiconafter": 120,
-			"iconurl": "https://i.imgur.com/QTj9Ls1.jpeg",
+			"iconurl": "https://i.imgur.com/OmGy6B1.jpeg",
 			"disableicontext": true,
 			"iconposition": 2,
 			"icontextcolor": 3,
@@ -22,11 +22,11 @@
 				"content": [
 					{
 						"title": "<TextStyle.White>CURRENT NEWS</>",
-						"text": "<RichColor Color=\"1, 0, 0.65, 1\">You must place a Massive Base Protection Flag or your structures will disappear in 2 days!!!. See the [MBP Video] link below for YouTube Tutorial.</>\r\n\r\n<RichColor Color=\"1,1,0,1\">Thursdays at 9pm Eastern - Movie Watch Party in discord</>\r\n\r\n<RichColor Color=\"1,1,0,1\">2026-May 3, Sunday - Scorched Earth > Aberration</>\r\n(scroll down for older news)\r\n\r\n\r\n2026-April 4, Saturday The Island switches to Scorched Earth\r\n\r\n2026-April 3, Friday - Eggcellent Adventure Begins\r\n\r\n2026-April 3, Friday Love Ascended Ends\r\n2026-February 9 The Center > The Island\r\n\r\n2026-01-30 Winter Wonderland Ends\r\n\r\n2026-January 25 Third map added: Lost Colony!\r\n\r\n2026-01-16 to 2026-01-30 Aardwolf's Birthday Celebration\r\n- See Events & Gifts tab for details. \r\n\r\n2026-Saturday, January-03 Public Launch!\r\n2025-December-05 Winter Wonderland Starts\r\n\r\n2025-December-08 Descent Settings and Testing begins"
+						"text": "<RichColor Color=\"1, 0, 0.65, 1\">You must place a Massive Base Protection Flag or your structures will disappear in 2 days!!!. See the [MBP Video] link below for YouTube Tutorial.</>\r\n\r\n<RichColor Color=\"1,1,0,1\">Thursdays at 8pm Eastern - Movie Watch Party in discord</>\r\n\r\n<RichColor Color=\"1,1,0,1\">ARK 11th Birthday Anniversary Begins</>\r\n(scroll down for older news)\r\n\r\n2026-May 22, Friday - Eggcellent Adventure Ended\r\n2026-May 3, Sunday - Scorched Earth > Aberration\r\n2026-April 4, Saturday The Island switches to Scorched Earth\r\n2026-April 3, Friday - Eggcellent Adventure Begins\r\n2026-April 3, Friday Love Ascended Ends\r\n2026-February 9 The Center > The Island\r\n2026-01-30 Winter Wonderland Ends\r\n2026-January 25 Third map added: Lost Colony!\r\n2026-01-16 to 2026-01-30 Aardwolf's Birthday Celebration\r\n- See Events & Gifts tab for details. \r\n2026-Saturday, January-03 Public Launch!\r\n2025-December-05 Winter Wonderland Starts\r\n2025-December-08 Descent Settings and Testing begins"
 					},
 					{
 						"title": "<TextStyle.White>FUTURE NEWS</>",
-						"text": "2026-May 22, Friday - Eggcellent Adventure Ends\r\n2026-June 5, Friday - Aberration > Extinction\r\n2026-June 26, Friday - Lost Colony > Genesis"
+						"text": "2026-June 5, Friday - Aberration > Extinction\r\n2026-June 26, Friday - Lost Colony > Genesis\r\n2026-July 03, Friday - Ark Birthday Event Ends\r\n2026-July 03, Friday - Summer Bash Event Begins\r\n2026-August 07, Friday - Summer Bash Event Ends"
 					},
 					{
 						"title": "<TextStyle.White>MY OTHER DESCENT</>",
